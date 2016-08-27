@@ -1,6 +1,6 @@
 # Pico Peering Agreement v1.0 #
 
-## Preambel ##
+## Präambel ##
 
 Mittlerweile gibt es viele Community-Netzwerke, diese sind jedoch geographisch und sozial voneinander getrennt und bilden kein zusammenhängendes Netzwerk. Dieses Dokument ist ein Ansatz (Versuch), diese Netzwerkinseln miteinander zu verbinden, indem es die minimale, grundsätzliche Vorlage für ein "Peering"-Abkommen (Verbindungsabkommen, Bündnisabkommen) zwischen den Eigentümern individueller Netzwerkknoten liefert: das PicoPeeringAgreement (PPA).
 
@@ -14,7 +14,7 @@ Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilliger aus verschied
 * Der Eigentümer bestätigt, freien Transit über seine freie Netzwerkinfrastruktur anzubieten
 * Der Eigentümer bestätigt, die Daten, die seine freie Netzwerkinfrastruktur passieren, weder störend zu beeinträchtigen noch zu verändern.
 
-### 2. Offene Kommunikatione ###
+### 2. Offene Kommunikation ###
 * Der Eigentümer erklärt, alle Informationen zu veröffentlichen, die für die Verbindung mit seiner Netzwerkinfrastruktur notwendig sind.
 * Diese Information soll (muss?) unter einer freien Lizenz (free licence) veröffentlicht werden.
 * Der Eigentümer erklärt, erreichbar zu sein und wird dazu wenigstens eine E-Mail-Adresse bekanntgeben.
@@ -40,6 +40,6 @@ Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilliger aus verschied
 * Freier Transit: Freier Transit bedeutet, dass der Eigentümer weder Gebühren für den Transit von Daten erhebt, noch die Daten verändert.
 * Freies Netzwerk: Das Freie Netzwerk ist die Summe der miteinander verbundenen Hard- und Software, dessen Anteil für den freien Transit vom Eigentümer dieser Ressourcen zu Verfügung gestellt wird.
 * Der Dienst: Der Dienst (Betrieb, Service) besteht aus freiem Transit und zusätzlichen Diensten.
-* Zusätzliche Dienste: Im Sinne des PPA ist ein Zusätzlicher Dienst alles war über freien Transit hinaus geht. Zum Beispiel die Bereitstellung eines DHCP-Servers, WEB-Servers oder Mail-Servers.
+* Zusätzliche Dienste: Im Sinne des PPA ist ein Zusätzlicher Dienst alles war über freien Transit hinaus geht. Zum Beispiel die Bereitstellung eines DHCP-Servers, Web-Servers oder Mail-Servers.
 
 Das PPA soll nach vereinbarten Standards in maschinenlesbarer Form in Community-Node-Datenbanken (nodeDBs) eingebaut werden, um die automatische Vernetzung solcher Knoten (Nodes) zu ermöglichen.
